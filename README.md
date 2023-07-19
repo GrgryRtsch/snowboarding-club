@@ -72,3 +72,6 @@ How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE 
 <a href="https://www.freepik.com/free-photo/close-up-ski-boots-white-snowboard_1620632.htm#query=snowboarding&position=1&from_view=search&track=sph">Image by freepic.diller</a> on Freepik
 
 <a href="https://www.freepik.com/free-photo/lace-sport-wood-smiling-fun_1057136.htm#query=snowboarding&position=17&from_view=search&track=sph">Image by v.ivash</a> on Freepik
+
+\*Using font awesome for my emojis
+<a href="https://fontawesome.com/"></a>

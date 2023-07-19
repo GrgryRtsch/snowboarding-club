@@ -1,10 +1,5 @@
 /*Source code from tutorial video: How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage*/
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
 a {
     border: 2px solid black;
@@ -34,7 +29,7 @@ img {
     border: 2px solid black;
     max-width: 60%;
     padding: 10px;
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
 
@@ -47,4 +42,13 @@ h1 {
 
 figure {
     margin-top: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+footer { 
+
+    height: 200px;
 }
