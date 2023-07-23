@@ -1,4 +1,15 @@
-/*Used some code from; Source code from tutorial video: How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage*/
+body {
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+header {
+    font-family: sans-serif;
+}
+
+/*Used some code and edited the inputs with help from from; Source code from tutorial video: How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage*/
+/*tutorial code that I have edited to my liking */
 
 a {
     border: 2px solid black;
@@ -18,51 +29,73 @@ li {
 }
 
 nav {
+    font-family: sans-serif;
     text-align: center;
     border-bottom: 2px solid black;
     margin: 0px 20px 20px 20px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
 }
 
-img {
-    border: 2px solid black;
-    max-width: 60%;
-    padding: 10px;
+
+#hero-image-index  {
+
+    max-width: 98%;
+    padding-top: 1px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
 
 }
 
+img {
+    
+    max-width: 100%;
+    max-height: fit-content;
+    padding: 10px;
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
 h1 {
-    font-family: Roboto, sans-serif;
+    font-family: "Montserrat", Sans-serif;
     text-align: center;
+    color: darkslategray;
+    font-weight: 100;
+    font-style:italic;
+}
+
+
+h2 {
+    font-weight: 100;
 }
 
 figure {
     margin-top: 40px;
 }
 
+/*tutorial code that I have edited to my liking ends */
+
+/*custom css code begins */
+
+
 p {
     text-align: center;
 }
 
-footer {
+.testimonial-title {
 
-    height: 200px;
+    color:aqua;
 }
 
 /*testing a testomonial with a bootstrap here (not working)*/
 
-
-.home-testimonial {
-    background-color: #231834;
-    height: 380px
+.div justify-content-center {
+    background-color:#6c83a2;
 }
 
 .home-testimonial-bottom {
-    background-color: #f8f8f8;
-    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 20px;
     margin-bottom: 0px;
     position: relative;
@@ -71,16 +104,16 @@ footer {
 }
 
 .home-testimonial h3 {
-    color: var(--orange);
-    font-size: 14px;
+    font-family: "Montserrat", Sans-serif;
+    color: darkslategrey;
+    font-size: 20px;
     font-weight: 500;
-    text-transform: uppercase
 }
 
 .home-testimonial h2 {
     color: white;
     font-size: 28px;
-    font-weight: 700
+    font-weight: 700;
 }
 
 .testimonial-inner {
@@ -100,11 +133,12 @@ footer {
 
 .color-grey-3 {
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
-    color: #6c83a2
+    font-size: 20px;
+    color: #4b4d4f
 }
 
 .testimonial-inner img.tm-people {
+
     width: 60px;
     height: 60px;
     -webkit-border-radius: 50%;
@@ -116,12 +150,36 @@ footer {
 
 .link-name {
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
+    font-size: 20px;
     color: #6c83a2
 }
 
 .link-position {
     font-family: "Montserrat", Sans-serif;
-    font-size: 12px;
+    font-size: 20px;
     color: #6c83a2
+}
+    /*bootstrap ends*/
+
+
+.faq {
+    text-align: center;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    color:#4b4d4f;
+    }
+
+.faq h2 {
+    color:darkslategray;
+}
+
+#hero-image-index {
+    color:darkslategray;
+}
+
+.footer {
+
+    bottom: 0;
+    top: 0;
+
 }
