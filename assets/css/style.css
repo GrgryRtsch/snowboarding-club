@@ -22,6 +22,11 @@ a {
     margin: 4px 2px;
     border-radius: 16px;
     font-family: Lato;
+    color: #000;
+}
+
+a:hover {
+    color: grey;
 }
 
 li {
@@ -37,7 +42,7 @@ nav {
 }
 
 
-#hero-image-index  {
+#hero-image-index {
 
     max-width: 98%;
     padding-top: 1px;
@@ -48,11 +53,11 @@ nav {
 }
 
 img {
-    
+
     max-width: 100%;
     max-height: fit-content;
     padding: 10px;
-    display:inline-block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
 
@@ -63,7 +68,7 @@ h1 {
     text-align: center;
     color: darkslategray;
     font-weight: 100;
-    font-style:italic;
+    font-style: italic;
 }
 
 
@@ -86,20 +91,18 @@ p {
 
 .testimonial-title {
 
-    color:aqua;
+    color: aqua;
 }
 
 /*testing a testomonial with a bootstrap here (not working)*/
 
 .div justify-content-center {
-    background-color:#6c83a2;
+    background-color: #6c83a2;
 }
 
 .home-testimonial-bottom {
     margin-top: 20px;
     margin-bottom: 0px;
-    position: relative;
-    height: 130px;
     top: 190px
 }
 
@@ -117,12 +120,10 @@ p {
 }
 
 .testimonial-inner {
-    position: relative;
     top: -174px
 }
 
 .testimonial-pos {
-    position: relative;
     top: 24px
 }
 
@@ -159,22 +160,23 @@ p {
     font-size: 20px;
     color: #6c83a2
 }
-    /*bootstrap ends*/
+
+/*bootstrap ends*/
 
 
 .faq {
     text-align: center;
     font-family: "Montserrat", Sans-serif;
     font-size: 20px;
-    color:#4b4d4f;
-    }
+    color: #4b4d4f;
+}
 
 .faq h2 {
-    color:darkslategray;
+    color: darkslategray;
 }
 
 #hero-image-index {
-    color:darkslategray;
+    color: darkslategray;
 }
 
 .footer {
