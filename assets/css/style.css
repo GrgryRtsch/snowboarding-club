@@ -6,12 +6,12 @@ body {
 
 header {
     font-family: sans-serif;
+
 }
 
 /*Code is similar to; Source code from tutorial video: How Do I Get My (Brilliant) but I have customized alot of the inputs*/
 
 a {
-    border: 2px solid black;
     border-radius: 50%;
     width: 5rem;
     padding: 5px 10px;
@@ -20,12 +20,12 @@ a {
     display: inline-block;
     margin: 4px 2px;
     border-radius: 16px;
-    font-family: sans-serif;
-    color: #000;
+    font-family: "Montserrat", Sans-serif;
+    color: #4b4d4f;
 }
 
 a:hover {
-    color: grey;
+    color: #6c83a2;
 }
 
 li {
@@ -33,13 +33,11 @@ li {
 }
 
 nav {
-    font-family: sans-serif;
+    font-family: "Montserrat", Sans-serif;
     text-align: center;
-    border-bottom: 2px solid #4b4d4f;
-    margin: 0px 20px 20px 20px;
-    padding-bottom: 5px;
+    margin: 0px 20px 0px 20px;
     float: right;
-    display: inline-block;
+    font-size: 19px;
 
 }
 
@@ -68,9 +66,12 @@ img {
 h1 {
     font-family: "Montserrat", Sans-serif;
     text-align: center;
-    color: darkslategray;
+    color: #4b4d4f;
     font-weight: 100;
     float: left;
+    font-size: 55px;
+    padding-left: 29px;
+
 }
 
 /*tutorial code that I have edited to my liking ends */
@@ -84,10 +85,10 @@ p {
 
 .testimonial-title {
 
-    color: aqua;
+    color: #4b4d4f;
 }
 
-/*bootstrap begins here*/
+/*bootstrap begins here customized some of the code*/
 
 .div justify-content-center {
     background-color: #6c83a2;
@@ -101,9 +102,10 @@ p {
 
 .home-testimonial h3 {
     font-family: "Montserrat", Sans-serif;
-    color: darkslategrey;
-    font-size: 20px;
+    color: #6c83a2;
+    font-size: 26px;
     font-weight: 500;
+    font-style: italic;
 }
 
 .home-testimonial h2 {
@@ -161,27 +163,24 @@ p {
 .faq {
     text-align: center;
     font-family: "Montserrat", Sans-serif;
-    font-size: 20px;
+    font-size: 18px;
     color: #4b4d4f;
-    border: 2px solid darkslategrey;
-    border-radius: 12px;
     padding: 5px;
-    border-radius: 8px;
-    border-width: 20%;
-    display: inline-block;
+    display: hidden;
 }
 
 
 .faq h2 {
-    color: darkslategray;
-    font-size: 20px;
-    text-transform: uppercase;
+    color: #6c83a2;
+    font-size: 26px;
     font-style: italic;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Montserrat", Sans-serif;
+
 }
 
 #hero-image-index {
-    color: darkslategray;
+    color: 4b4d4f;
+    margin-bottom: 2%;
 }
 
 .footer {
@@ -199,4 +198,13 @@ p {
     margin-bottom: 5%;
     border-width: flex;
     display: inline-block;
+}
+
+.container-fluid {
+    display: inline-block
+}
+
+#menu {
+    max-width: fit-content;
+    max-height: fit-content;
 }
