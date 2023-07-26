@@ -8,8 +8,7 @@ header {
     font-family: sans-serif;
 }
 
-/*Used some code and edited the inputs with help from from; Source code from tutorial video: How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage*/
-/*tutorial code that I have edited to my liking */
+/*Code is similar to; Source code from tutorial video: How Do I Get My (Brilliant) but I have customized alot of the inputs*/
 
 a {
     border: 2px solid black;
@@ -21,7 +20,7 @@ a {
     display: inline-block;
     margin: 4px 2px;
     border-radius: 16px;
-    font-family: Lato;
+    font-family: sans-serif;
     color: #000;
 }
 
@@ -36,9 +35,12 @@ li {
 nav {
     font-family: sans-serif;
     text-align: center;
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #4b4d4f;
     margin: 0px 20px 20px 20px;
     padding-bottom: 5px;
+    float: right;
+    display: inline-block;
+
 }
 
 
@@ -68,12 +70,7 @@ h1 {
     text-align: center;
     color: darkslategray;
     font-weight: 100;
-    font-style: italic;
-}
-
-
-h2 {
-    font-weight: 100;
+    float: left;
 }
 
 /*tutorial code that I have edited to my liking ends */
@@ -90,7 +87,7 @@ p {
     color: aqua;
 }
 
-/*testing a testomonial with a bootstrap here (not working)*/
+/*bootstrap begins here*/
 
 .div justify-content-center {
     background-color: #6c83a2;
@@ -158,16 +155,29 @@ p {
 
 /*bootstrap ends*/
 
+/*cutsom css begins*/
+
 
 .faq {
     text-align: center;
     font-family: "Montserrat", Sans-serif;
     font-size: 20px;
     color: #4b4d4f;
+    border: 2px solid darkslategrey;
+    border-radius: 12px;
+    padding: 5px;
+    border-radius: 8px;
+    border-width: 20%;
+    display: inline-block;
 }
+
 
 .faq h2 {
     color: darkslategray;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #hero-image-index {
@@ -179,4 +189,14 @@ p {
     bottom: 0;
     top: 0;
 
+}
+
+.home-testimonial {
+    border: 2px solid #4b4d4f;
+    border-radius: 12px;
+    padding: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-width: flex;
+    display: inline-block;
 }
