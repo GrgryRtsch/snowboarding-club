@@ -6,58 +6,68 @@ This is the main website for Snowboarding Club. It is designed to be responsibe 
 
 <h2 align="center">User Experience & Wireframe</h2>
 
-##  User Experience
+## User Experience
 
-###  User stories
+### User stories
 
--  First Time Visitor Goals
--  As a First Time Visitor, I would like the goal to be that people interested in snowboarding sign up to our club / contact us.
--  As a First Time Visitor, the user should easily find out about events and upcoming meet-ups as well as finding our contact information easily.
--  As a First Time Visitor, I would also like people to be able to find out about our other social platforms and the people who use and reccomend us.
+- First Time Visitor Goals
+- As a First Time Visitor, I would like the goal to be that people interested in snowboarding sign up to our club / contact us.
+- As a First Time Visitor, the user should easily find out about events and upcoming meet-ups as well as finding our contact information easily.
+- As a First Time Visitor, I would also like people to be able to find out about our other social platforms and the people who use and reccomend us.
 
--  Returning Visitor Goals
--  As a Returning Visitor, they would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club.
--  As a Returning Visitor, should be able to see the gallery of all of our previous meet-ups where they may-be featured.
--  As a Returning Visitor, should be using all of the links provided at the footer of the page.
+- Returning Visitor Goals
+- As a Returning Visitor, they would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club.
+- As a Returning Visitor, should be able to see the gallery of all of our previous meet-ups where they may-be featured.
+- As a Returning Visitor, should be using all of the links provided at the footer of the page.
 
--  Frequent User Goals
--  As a Frequent User, to be given information on more challenging slopes and sessions.
--  As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
--  As a Frequent User, I may want to contact the club to find out something more specific and am looking for the phone number.
+- Frequent User Goals
+- As a Frequent User, to be given information on more challenging slopes and sessions.
+- As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
+- As a Frequent User, I may want to contact the club to find out something more specific and am looking for the phone number.
 
-##  Design
+## Design
 
-###  Colour Scheme
+### Colour Scheme
 
--  I would like the hero colour to be blue. and maybe some darker greys and white.
+- I would like the hero colour to be blue. and maybe some darker greys and white.
 
-###  Typography
--  
--  I would like the main font to be used throughout the web pages to be Lato.
+### Typography
 
-###   Imagery
--  
--  I would like some of the imagery to be running behind the page. One of the images I have in mind would be a man pointing toward the contact info in ski gear.
+-
+- I would like the main font to be used throughout the web pages to be Lato.
 
-###  Interactive elements
--  
--  Able to navigate around the website and hopefully slight movment on certain highlighted ares zoom effect.
+### Imagery
 
-##  Wireframes
+-
+- I would like some of the imagery to be running behind the page. One of the images I have in mind would be a man pointing toward the contact info in ski gear.
 
--  <img src="https://github.com/GrgryRtsch/GrgryRtsch/blob/main/Wireframe.png">
+### Interactive elements
 
-##  Features
+-
+- Able to navigate around the website and hopefully slight movment on certain highlighted ares zoom effect.
 
--  Responsive on all device sizes, links to socials, contact info links to each page and a gallery.
+## Wireframes
 
-##  Languages Used
+- <img src="https://github.com/GrgryRtsch/GrgryRtsch/blob/main/Wireframe.png">
 
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+## Features
 
+- Responsive on all device sizes, links to socials, contact info links to each page and a gallery.
+
+## Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 \*Code attributes:
+
+TESTIMONIALS CREDS ; https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
+
+HAMBURGER MENU CREDS ; https://codepen.io/nar3nd3r/pen/GRQVZbq
+
+CAROUSEL CREDS ; https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
+
+STAND OUT BACKGROUNDS CREDS ; https://codepen.io/nar3nd3r/pen/PoNjeGW
 
 Using this part of the Code institute tutorial to start my webpage groundworks.
 How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
