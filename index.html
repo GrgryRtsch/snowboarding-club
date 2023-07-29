@@ -16,64 +16,26 @@
 <!-- Source code structure from tutorial video: How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage -->
 
 <body>
-
     <!--Header begins-->
-
     <header id="hb">
-        <h1>Laquionie Snowboarding Club</h1>
-
-        <!--Nav bar begins-->
-
         <nav>
-
-            <div id="hb"></div>
-
-            <ul id="menu">
-                <li>
-                    <a href="index.html"><i class="fa-solid fa-house"></i>Home</a>
-                </li>
-                <li>
-                    <a href="events.html"><i class="fa-solid fa-calendar-days"></i>Events</a>
-                </li>
-                <li>
-                    <a href="gallery.html"><i class="fa-solid fa-photo-film"></i>Gallery</a>
-                </li>
-            </ul>
-            <!-- </nav> -->
-
-            <!-- HAMBURGER MENU STARTS -->
-
-            <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-
             <section class="top-nav">
-
                 <div class="logo">
-                    Logo
+                    <img id="logo-image" src="assets/images/LSCl.png" alt="Snowboarder">
                 </div>
 
                 <input id="menu-toggle" type="checkbox" class="toggler" />
                 <label class='menu-button-container' for="menu-toggle">
                     <div class='menu-button'></div>
                 </label>
-
                 <ul class="menu">
-                    <li>Menu Item 1</li>
-                    <li>Menu Item 2</li>
-                    <li>Menu Item 3</li>
-                    <li>Menu Item 4</li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="events.html">Events</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
                 </ul>
-
             </section>
-
-            <div class="welcome-message">Hamburger menu Example</div>
-
-            HAMBURGER MENU ENDS
-
+            <!-- HAMBURGER MENU ENDS -->
         </nav>
-
-
-        <!--Nav bar ends-->
-
     </header>
 
     <!--Header ends-->
@@ -87,15 +49,15 @@
             </center>
         </figure>
     </section>
-    <section class="faq">
+    <section class="container-fluid">
         <div>
             <figure>
                 <div>
-                    <h2>About Laquionie Snowboarding Cluby join our Snowboarding Club?
+                    <h2>About Laquionie Snowboarding Club join our Snowboarding Club?
                     </h2>
-                    is celevrating it's 6th birthday this year!
-                    and what a journey it has been, the club The Snowboarding Club is a g
-                    eat way to find out about the latest even hA and around these beautiful mountains! <i
+                    is celebrating it's 6th birthday this year!
+                    and what a journey it has been, the club The Snowboarding Club is a great
+                    way to find out about the latest things happening in and around these beautiful mountains! <i
                         class="fa-solid fa-users"></i>
                 </div>
             </figure>
@@ -123,12 +85,11 @@
     <!--Image and About section ends-->
 
     <!-- Bootstrap Testimonial begins -->
-
     <section class="home-testimonial">
+        <h3>Testimonials</h3>
         <div class="container-fluid">
             <div class="row d-flex justify-content-center testimonial-pos">
                 <div class="col-md-12 pt-4 d-flex justify-content-center">
-                    <h3>Testimonials</h3>
                 </div>
                 <div class="col-md-12 d-flex justify-content-center">
                     <h2>Explore the students experience</h2>
@@ -140,14 +101,18 @@
                         <div class="col-md-4 style-3">
                             <div class="tour-item ">
                                 <div class="tour-desc bg-white">
+
+                                    <div class="d-flex justify-content-center pt-2 pb-2">
+                                        <img class="tm-people"
+                                            src="https://images.pexels.com/photos/6625914/pexels-photo-6625914.jpeg"
+                                            alt="">
+                                    </div>
                                     <div class="tour-text color-grey-3 text-center">&ldquo;I can't recommend the
                                         Snowboarding Club enough, I've met friends for life and learnt
                                         snowboarding skills that I would not have without the help of the club! Thanks
                                         everyone.&rdquo;</div>
-                                    <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people"
-                                            src="https://images.pexels.com/photos/6625914/pexels-photo-6625914.jpeg"
-                                            alt="">
-                                    </div>
+                                    <div class="d-flex justify-content-center pt-2 pb-2"></div>
+
                                     <div class="link-name d-flex justify-content-center">Karla Sinclair</div>
                                     <div class="link-position d-flex justify-content-center">Snowboarding amatuer.</div>
                                 </div>
@@ -156,13 +121,16 @@
                         <div class="col-md-4 style-3">
                             <div class="tour-item ">
                                 <div class="tour-desc bg-white">
+
+                                    <img class="tm-people"
+                                        src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                        alt="">
+
                                     <div class="tour-text color-grey-3 text-center">&ldquo;I had moved from Canada a few
                                         months ago, and was in search a new group of snowboarding buddies,
                                         now we get together at all the club events and outside of that for drinks and
                                         food too.&rdquo;</div>
-                                    <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people"
-                                            src="https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                            alt=""></div>
+                                    <div class="d-flex justify-content-center pt-2 pb-2"></div>
                                     <div class="link-name d-flex justify-content-center">Ashley Singer</div>
                                     <div class="link-position d-flex justify-content-center">Canada ex-pat, seasoned
                                         snowboarder.</div>
@@ -172,12 +140,14 @@
                         <div class="col-md-4 style-3">
                             <div class="tour-item ">
                                 <div class="tour-desc bg-white">
+
+                                    <img class="tm-people"
+                                        src="https://images.pexels.com/photos/4946604/pexels-photo-4946604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                                        alt="">
                                     <div class="tour-text color-grey-3 text-center">&ldquo;At this Club, their mission
                                         is too aid skill development in snowboarding through group events,
                                         and also bring the community together as a whole.&rdquo;</div>
-                                    <div class="d-flex justify-content-center pt-2 pb-2"><img class="tm-people"
-                                            src="https://images.pexels.com/photos/4946604/pexels-photo-4946604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-                                            alt=""></div>
+                                    <div class="d-flex justify-content-center pt-2 pb-2"></div>
                                     <div class="link-name d-flex justify-content-center">Venus Montgomerry</div>
                                     <div class="link-position d-flex justify-content-center">Local Student</div>
                                 </div>
@@ -189,61 +159,14 @@
 
     <!-- Bootstrap Testimonial ends -->
 
-    <section class="pricing-table">
-        <div class="card">
-            <h6 class="type">basic</h6>
-            <div class="price"><span>$</span>20</div>
-            <h5 class="plan">Slots</h5>
-            <ul class="details">
-                <li>Monday</li>
-                <li>Tuesday</li>
-                <li>Wednesday</li>
-            </ul>
-            <div class="buy-button">
-                <h3 class="btn">subscribe</h3>
-            </div>
-        </div>
-
-        <div class="card">
-            <h6 class="type">basic</h6>
-            <div class="price"><span>$</span>19</div>
-            <h5 class="plan">Slots</h5>
-            <ul class="details">
-                <li>Monday</li>
-                <li>Tuesday</li>
-                <li>Wednesday</li>
-            </ul>
-            <div class="buy-button">
-                <h3 class="btn">subscribe</h3>
-            </div>
-        </div>
-
-
-        <div class="card">
-            <h6 class="type">basic</h6>
-            <div class="price"><span>$</span>40</div>
-            <h5 class="plan">Slots</h5>
-            <ul class="details">
-                <li>Monday</li>
-                <li>Tuesday</li>
-                <li>Wednesday</li>
-            </ul>
-            <div class="buy-button">
-                <h3 class="btn">subscribe</h3>
-            </div>
-        </div>
-
-
-    </section>
-
     <!-- Footer begins -->
 
 
     <footer>
         <ul class="social-networks">
-            <li><a href="https://www.facebook.com" target="_blank"> <i class="fab fa-facebook"></i></a></li>
-            <li><a href="https://www.twitter.com" target="_blank"> <i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="https://www.youtube.com" target="_blank"> <i class="fab fa-youtube-square"></i></a></li>
+            <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+            <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube-square"></i></a></li>
             <li><a href="https://www.instagram.com" target="_blank"> <i class="fab fa-instagram"></i></a></li>
         </ul>
     </footer>

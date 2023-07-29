@@ -16,20 +16,28 @@
 </head>
 
 <body>
-    <h1>Laquionie Snowboarding Club</h1>
-    <nav>
-        <ul>
-            <li>
-                <a href="index.html"><i class="fa-solid fa-house"></i>Home</a>
-            </li>
-            <li>
-                <a href="events.html"><i class="fa-solid fa-calendar-days"></i>Events</a>
-            </li>
-            <li>
-                <a href="gallery.html"><i class="fa-solid fa-photo-film"></i>Gallery</a>
-            </li>
-        </ul>
-    </nav>
+
+    <header id="hb">
+        <nav>
+            <section class="top-nav">
+                <div class="logo">
+                    <img id="logo-image" src="assets/images/LSCl.png" alt="Snowboarder">
+                </div>
+
+                <input id="menu-toggle" type="checkbox" class="toggler" />
+                <label class='menu-button-container' for="menu-toggle">
+                    <div class='menu-button'></div>
+                </label>
+                <ul class="menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="events.html">Events</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                </ul>
+            </section>
+            <!-- HAMBURGER MENU ENDS -->
+        </nav>
+    </header>
+
     <section id="hero-image-events">
         <figure>
             <img src="assets/images/close-up-ski-boots-white-snowboard.jpg" alt="Close up snowboarder shoes">
@@ -42,25 +50,39 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-12 col-md-4">
-                    <h2>Laquionie, Beginner Slope Session <i class="fa-solid fa-mountain"></i></h2>
-                    <h3>Where: Laquionie Bottom Ski Lift</h3>
-                    <h3>When: 10am 04/07/23</h3>
-                    <h3>Info: Beginners session, all skill levels welcome, intrdouction to turning.</h3>
+                    <div>
+                        <center>
+                            <h2>Upcoming Events!</h2>
+                        </center>
+                    </div>
+                    <div class="card border-dark mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Laquionie, Beginner Slope Session</div>
+                        <div class="card-body text-dark">
+                            <h5 class="card-title">Info:</h5>
+                            <p class="card-text">Beginners session on the Laquionie Snow and Ski Hub, all skill levels
+                                welcome, an inclusive intrdouction to turning and stopping.</p>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <h2>Le Blanc, Black Slope <i class="fa-solid fa-person-snowboarding"></i></h2>
-
-                    <h3>Where: Le Blanc, Black Slope</h3>
-                    <h3>When: 2pm 06/07/23</h3>
-                    <h3>Info: Intermediate session, not for the feint hearted!</h3>
+                    <div class="card border-dark mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Le Blanc, Black Slope</div>
+                        <div class="card-body text-dark">
+                            <h5 class="card-title">Info:</h5>
+                            <p class="card-text">Intermediate session on a black difficulty slope on the Le Blanc
+                                mountain range, this one is not for the feint hearted!</p>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
-                    <h2>Hike to the top for sunset! <i class="fa-solid fa-person-hiking"></i></h2>
-
-                    <h3>Where: Lequionie Ski & Snowboard Hub</h3>
-                    <h3>When: 8pm 09/07/23</h3>
-                    <h3>Info: Any club members and friends welcome to join us, on a casual walk
-                        to the top of Lequionie, we intend to reach the summit for the sunset!</h3>
+                    <div class="card border-dark mb-3" style="max-width: 18rem;">
+                        <div class="card-header">Hike to the top for Sunset!</div>
+                        <div class="card-body text-dark">
+                            <h5 class="card-title">Info:</h5>
+                            <p class="card-text">Any club members and friends welcome to join us, on a casual walk
+                                to the top of Lequionie, we intend to reach the summit for the sunset!</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
