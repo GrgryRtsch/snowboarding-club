@@ -48,12 +48,13 @@ nav {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 #logo-image {
     top: 0;
     left: 0;
+    padding-bottom: 1.2rem;
+    padding-right: 6rem;
 }
 
 img {
@@ -92,7 +93,7 @@ p {
     color: #4b4d4f;
 }
 
-/*bootstrap begins here customized some of the code*/
+/*bootstrap TESTIMONIAL begins here customized some of the code*/
 
 .div justify-content-center {
     background-color: #6c83a2;
@@ -109,13 +110,14 @@ p {
     color: #6c83a2;
     font-size: 26px;
     font-weight: 500;
-    font-style: italic;
+    margin-top: 1rem;
 }
 
 .home-testimonial h2 {
     color: white;
     font-size: 28px;
     font-weight: 700;
+    text-align: center;
 }
 
 .testimonial-inner {
@@ -188,7 +190,6 @@ p {
 }
 
 .footer {
-
     bottom: 0;
     top: 0;
 
@@ -213,7 +214,6 @@ p {
     margin-bottom: 3%;
     font-family: sans-serif;
     color: #4b4d4f;
-
 }
 
 .container-fluid h2 {
@@ -225,7 +225,8 @@ p {
     max-height: fit-content;
 }
 
-/*HAMBURGER MENU STARTS*/
+
+/*HAMBURGER MENU STARTS edited to my taste and needs*/
 
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
 
@@ -255,7 +256,7 @@ body {
     justify-content: space-between;
     background: white;
     color: #4b4d4f;
-    height: 10vh;
+    height: 13vh;
     padding: 1em;
     width: 100vw;
     margin-left: auto;
@@ -386,4 +387,9 @@ body {
 
 h2 {
     text-align: center;
+}
+
+.row {
+    padding-left: 3rem;
+    padding-right: 3rem;
 }

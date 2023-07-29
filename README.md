@@ -65,9 +65,7 @@ TESTIMONIALS CREDS ; https://bbbootstrap.com/snippets/bootstrap-5-testimonial-ca
 
 HAMBURGER MENU CREDS ; https://codepen.io/nar3nd3r/pen/GRQVZbq
 
-CAROUSEL CREDS ; https://css-tricks.com/creating-responsive-touch-friendly-carousels-with-flickity/
-
-STAND OUT BACKGROUNDS CREDS ; https://codepen.io/nar3nd3r/pen/PoNjeGW
+CARD STYLE CREDS ; https://getbootstrap.com/docs/4.0/components/card/
 
 Using this part of the Code institute tutorial to start my webpage groundworks.
 How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
