@@ -1,6 +1,6 @@
 <h1 align="center">Snowboarding Club Website</h1>
 
-[View the live project here.](https://github.com/GrgryRtsch/snowboarding-club)
+[View the live project here.](https://github.io/GrgryRtsch/snowboarding-club/index.html)
 
 This is the main website for Snowboarding Club. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
@@ -61,29 +61,41 @@ This is the main website for Snowboarding Club. It is designed to be responsibe 
 
 \*Code attributes:
 
-TESTIMONIALS CREDS ; https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
+## TESTIMONIALS CREDIT;
 
-HAMBURGER MENU CREDS ; https://codepen.io/nar3nd3r/pen/GRQVZbq
+https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
 
-CARD STYLE CREDS ; https://getbootstrap.com/docs/4.0/components/card/
+## HAMBURGER MENU CREDIT;
 
-Using this part of the Code institute tutorial to start my webpage groundworks.
+https://codepen.io/nar3nd3r/pen/GRQVZbq
+
+## CARD STYLE CREDIT;
+
+https://getbootstrap.com/docs/4.0/components/card/
+
+## Using this part of the Code institute tutorial to start my webpage groundworks.
+
 How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
 "https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/dcd449bd41a446f49df3268f91dd06fc/072c95175f1148438de9d82e7a756ee1/?child=first"
 
-\*Image attributes:
+## CAROUSEL CREDS;
 
-<a href="https://www.freepik.com/free-photo/active-stupefied-man-trains-winter-mountains-goes-snowboarding-wears-grey-jacket-ski-goggles-indicates-with-surprised-expression-empty-space_14271277.htm#query=snowboarding&position=0&from_view=search&track=sph">Image by wayhomestudio</a> on Freepik
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
 
-<a href="https://www.freepik.com/free-photo/close-up-ski-boots-white-snowboard_1620632.htm#query=snowboarding&position=1&from_view=search&track=sph">Image by freepic.diller</a> on Freepik
+## \*Image attributes:
 
-<a href="https://www.freepik.com/free-photo/close-up-ski-boots-white-snowboard_1620632.htm#query=snowboarding&position=1&from_view=search&track=sph">Image by freepic.diller</a> on Freepik
+- <a href="https://www.freepik.com/free-photo/active-stupefied-man-trains-winter-mountains-goes-snowboarding-wears-grey-jacket-ski-goggles-indicates-with-surprised-expression-empty-space_14271277.htm#query=snowboarding&position=0&from_view=search&track=sph">Image by wayhomestudio</a> on Freepik
 
-<a href="https://www.freepik.com/free-photo/lace-sport-wood-smiling-fun_1057136.htm#query=snowboarding&position=17&from_view=search&track=sph">Image by v.ivash</a> on Freepik
+- <a href="https://www.freepik.com/free-photo/close-up-ski-boots-white-snowboard_1620632.htm#query=snowboarding&position=1&from_view=search&track=sph">Image by freepic.diller</a> on Freepik
 
-<a href="https://www.freepik.com/free-photo/winter-mountain-landscape-with-sun_10585587.htm#query=skiing&position=2&from_view=search&track=sph">Image by vwalakte</a> on Freepik
+- <a href="https://www.freepik.com/free-photo/close-up-ski-boots-white-snowboard_1620632.htm#query=snowboarding&position=1&from_view=search&track=sph">Image by freepic.diller</a> on Freepik
 
-<a href="https://www.freepik.com/free-photo/winter-ski-panorama-alps_10585590.htm#query=skiing%20landscape&position=5&from_view=search&track=ais">Image by vwalakte</a> on Freepik
+- <a href="https://www.freepik.com/free-photo/lace-sport-wood-smiling-fun_1057136.htm#query=snowboarding&position=17&from_view=search&track=sph">Image by v.ivash</a> on Freepik
 
-\*Using font awesome for my emojis
-<a href="https://fontawesome.com/"></a>
+- <a href="https://www.freepik.com/free-photo/winter-mountain-landscape-with-sun_10585587.htm#query=skiing&position=2&from_view=search&track=sph">Image by vwalakte</a> on Freepik
+
+- <a href="https://www.freepik.com/free-photo/winter-ski-panorama-alps_10585590.htm#query=skiing%20landscape&position=5&from_view=search&track=ais">Image by vwalakte</a> on Freepik
+
+## \*Using font awesome for my emojis
+
+- <a href="https://fontawesome.com/"></a>

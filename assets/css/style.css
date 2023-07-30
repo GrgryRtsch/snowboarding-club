@@ -44,7 +44,7 @@ nav {
 #hero-image-index {
 
     max-width: 98%;
-    padding-top: 1px;
+    padding-top: 25px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
@@ -79,7 +79,7 @@ h1 {
 
 }
 
-/*tutorial code that I have edited to my liking ends */
+/*tutorial code that is similar ends */
 
 /*custom css code begins */
 
@@ -110,7 +110,7 @@ p {
     color: #6c83a2;
     font-size: 26px;
     font-weight: 500;
-    margin-top: 1rem;
+    margin-top: 3px;
 }
 
 .home-testimonial h2 {
@@ -142,6 +142,7 @@ p {
 .testimonial-inner img.tm-people {
 
     width: 60px;
+    height: 60px;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     -o-object-fit: cover;
@@ -164,7 +165,6 @@ p {
 /*bootstrap ends*/
 
 /*cutsom css begins*/
-
 
 .faq {
     text-align: center;
@@ -203,6 +203,7 @@ p {
     margin-bottom: 5%;
     border-width: flex;
     display: inline-block;
+    text-align: center;
 }
 
 .container-fluid {
@@ -210,8 +211,7 @@ p {
     border: 2px solid #4b4d4f;
     padding: 5px;
     border-radius: 12px;
-    margin-top: 3%;
-    margin-bottom: 3%;
+    /* margin-bottom: 3%; */
     font-family: sans-serif;
     color: #4b4d4f;
 }
@@ -234,9 +234,6 @@ p {
     box-sizing: border-box;
 }
 
-ul {
-    padding-top: 10rem;
-}
 
 .logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -260,6 +257,7 @@ body {
     padding: 1em;
     width: 100vw;
     margin-left: auto;
+    padding-top: 2rem;
 }
 
 .menu {
@@ -267,7 +265,7 @@ body {
     flex-direction: row;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 18px;
 }
 
 .menu>li {
@@ -392,4 +390,29 @@ h2 {
 .row {
     padding-left: 3rem;
     padding-right: 3rem;
+    padding-top: 1rem;
 }
+
+hr {
+    color: #222;
+    opacity: 100;
+
+}
+
+.container {
+    padding-top: 25px;
+}
+
+.card {
+    position: inherit;
+}
+
+#gallery-card {
+    padding-top: 14rem;
+}
+
+#hero-image-events {
+    padding-top: 30px;
+}
+
+/*carousel begins*/
