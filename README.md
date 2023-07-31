@@ -103,7 +103,7 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
   https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
 
 - Hamburger menu was based on:
-  https://codepen.io/nar3nd3r/pen/GRQVZbq
+- https://codepn.io/nar3nd3r/pen/GRQVZbq
 
 - Card styles were based on:
   https://getbootstrap.com/docs/4.0/components/card/
@@ -116,6 +116,11 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
   https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
 
 ## Frameworks
+
+- GitHub was used to store my repositories.
+- Bootstrap for some layouts on the website.
+- Google Fonts, Sans Seriff.
+- CodeAnywhere for building my code and before pushing to GitHub.
 
 - Media
 - All images were taken from https://www.freepik.com
