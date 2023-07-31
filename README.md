@@ -1,4 +1,4 @@
-<h1 align="center">Snowboarding Club Website</h1>
+<h1 align="center">The Laquioinie Snowboarding Club Website</h1>
 
 [View the live project here.](https://github.io/GrgryRtsch/snowboarding-club/index.html)
 
