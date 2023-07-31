@@ -1,4 +1,4 @@
-<h1 align="center">The Laquioinie Snowboarding Club Website</h1>
+<h1 align="center">Snowboarding Club Website</h1>
 
 [View the live project here.](https://github.io/GrgryRtsch/snowboarding-club/index.html)
 
@@ -100,25 +100,25 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 ### All custom code was written by Gregory Rutsch
 
 - Testomonial was based on:
-- https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
+  https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
 
 - Hamburger menu was based on:
-- https://codepen.io/nar3nd3r/pen/GRQVZbq
+  https://codepen.io/nar3nd3r/pen/GRQVZbq
 
 - Card styles were based on:
-- https://getbootstrap.com/docs/4.0/components/card/
+  https://getbootstrap.com/docs/4.0/components/card/
 
 - Using this part of the Code institute tutorial to start my webpage groundworks
-- How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
+  How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
   "https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/dcd449bd41a446f49df3268f91dd06fc/072c95175f1148438de9d82e7a756ee1/?child=first"
 
 - Carousel was based on:
-- https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
+  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
 
-## Media
+## Frameworks
 
+- Media
 - All images were taken from https://www.freepik.com
 
-## Icons
-
+- Icons
 - I used fontawesome for all of my icons <a href="https://fontawesome.com/"></a>
