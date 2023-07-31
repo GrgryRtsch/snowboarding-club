@@ -43,11 +43,12 @@ nav {
 
 #hero-image-index {
 
-    max-width: 98%;
+    max-width: 92%;
     padding-top: 25px;
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
+    color: 4b4d4f;
 }
 
 #logo-image {
@@ -135,7 +136,6 @@ p {
 
 .color-grey-3 {
     font-family: "Montserrat", Sans-serif;
-    font-size: 20px;
     color: #4b4d4f
 }
 
@@ -182,11 +182,6 @@ p {
     font-style: italic;
     font-family: "Montserrat", Sans-serif;
 
-}
-
-#hero-image-index {
-    color: 4b4d4f;
-    margin-bottom: 2%;
 }
 
 .footer {
@@ -399,12 +394,10 @@ hr {
 
 }
 
-.container {
-    padding-top: 25px;
-}
-
 .card {
     position: inherit;
+    padding-bottom: 1px;
+    clear: both;
 }
 
 #gallery-card {
@@ -415,4 +408,6 @@ hr {
     padding-top: 30px;
 }
 
-/*carousel begins*/
+.carousel-padding {
+    padding-top: 20px
+}
