@@ -48,11 +48,11 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 
 ## Colors Chosen
 
-- The colors which formed the basis of my website were; #6c83a2, #4b4d4f, #444, #333, and white.
+- The colors which formed the basis of my website were; #6c83a2, #4b4d4f, #444, #333, and white, and also some black borders (lines).
 
 ## Typography
 
-- Sans Seriff, main font of choice.
+- Sans Seriff, was the main font of choice.
 
 ## Imagery
 
@@ -87,6 +87,18 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 - <img src="https://github.com/GrgryRtsch/GrgryRtsch/blob/main/Wireframe.png">
 
 ## Features
+
+### Navigation Bar
+
+### Home Page
+
+### Events Page
+
+### Gallery Page
+
+### Footer
+
+<img src="assets/wireframes/Screenshot 2023-07-31 235654">
 
 - Responsive on all device sizes, links to socials, contact info links to each page and a gallery.
 
