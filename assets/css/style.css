@@ -20,7 +20,7 @@ a {
     margin: 4px 2px;
     border-radius: 16px;
     font-family: "Montserrat", Sans-serif;
-    color: #4b4d4f;
+    color: whitesmoke;
 }
 
 a:hover {
@@ -34,7 +34,7 @@ li {
 nav {
     font-family: "Montserrat", Sans-serif;
     text-align: center;
-    margin: 0px 20px 0px 20px;
+    /* margin: 0px 20px 0px 20px; */
     float: right;
     font-size: 19px;
 
@@ -48,14 +48,14 @@ nav {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    color: 4b4d4f;
+    position: center;
 }
 
 #logo-image {
     top: 0;
     left: 0;
-    padding-bottom: 1.2rem;
-    padding-right: 6rem;
+    /* padding-bottom: 1.2rem;
+    padding-right: 6rem; */
 }
 
 img {
@@ -131,7 +131,6 @@ p {
 
 .testimonial-inner .tour-desc {
     border-radius: 5px;
-    padding: 40px
 }
 
 .color-grey-3 {
@@ -187,6 +186,7 @@ p {
 .footer {
     bottom: 0;
     top: 0;
+    background-color: #4b4d4f;
 
 }
 
@@ -194,8 +194,8 @@ p {
     border: 2px solid #4b4d4f;
     border-radius: 12px;
     padding: 5px;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
     border-width: flex;
     display: inline-block;
     text-align: center;
@@ -206,7 +206,6 @@ p {
     border: 2px solid #4b4d4f;
     padding: 5px;
     border-radius: 12px;
-    /* margin-bottom: 3%; */
     font-family: sans-serif;
     color: #4b4d4f;
 }
@@ -248,11 +247,13 @@ body {
     justify-content: space-between;
     background: white;
     color: #4b4d4f;
-    height: 13vh;
+    height: 100px;
     padding: 1em;
     width: 100vw;
     margin-left: auto;
     padding-top: 2rem;
+    padding-right: 2rem;
+    padding-left: 1px;
 }
 
 .menu {
@@ -320,12 +321,10 @@ body {
 
 @media (max-width: 3000px) {
 
-    /* Show toggler */
     .menu-button-container {
         display: flex;
     }
 
-    /* set the actual menu dimention if shown by toggeling */
     .menu {
         position: absolute;
         top: 50px;
@@ -335,9 +334,9 @@ body {
         width: 100%;
         justify-content: center;
         align-items: center;
+        color: whitesmoke;
     }
 
-    /* when toggler is not checked */
     .toggler~.menu li {
         height: 0;
         margin: 0;
@@ -346,7 +345,6 @@ body {
         transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
 
-    /* when toggler is checked */
     .toggler:checked~.menu li {
         border: 1px solid #333;
         height: 2.5em;
@@ -356,7 +354,6 @@ body {
         transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
     }
 
-    /* some style for menu items */
     .menu>li {
         display: flex;
         justify-content: center;
@@ -367,7 +364,6 @@ body {
         background-color: #222;
     }
 
-    /* border for all menu items but the last one */
     .menu>li:not(:last-child) {
         border-bottom: 1px solid #444;
     }
@@ -380,12 +376,6 @@ body {
 
 h2 {
     text-align: center;
-}
-
-.row {
-    padding-left: 3rem;
-    padding-right: 3rem;
-    padding-top: 1rem;
 }
 
 hr {
@@ -406,8 +396,32 @@ hr {
 
 #hero-image-events {
     padding-top: 30px;
+    max-width: 70%;
 }
 
 .carousel-padding {
     padding-top: 20px
+}
+
+.fab {
+    color: #4b4d4f;
+
+}
+
+.fa {
+    color: #4b4d4f;
+
+}
+
+.map {
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
