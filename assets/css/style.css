@@ -48,7 +48,6 @@ nav {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    position: center;
 }
 
 #logo-image {
@@ -171,7 +170,6 @@ p {
     font-size: 18px;
     color: #4b4d4f;
     padding: 5px;
-    display: hidden;
 }
 
 
@@ -196,7 +194,6 @@ p {
     padding: 5px;
     margin-top: 1%;
     margin-bottom: 1%;
-    border-width: flex;
     display: inline-block;
     text-align: center;
 }
@@ -231,7 +228,6 @@ p {
 
 .logo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    size: 0.3px;
 }
 
 html,
