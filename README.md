@@ -192,7 +192,7 @@ The footer is minimalistic with the social links active and colored to the theme
 ## Lighthouse Testing
 
 - My score is generally high, but my performance is effected by the bootsrap images I used which are now fundimental to my project.
-- 
+  
 - Mobile Lighthouse Test
   
 ![lighthouse 2](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/acd7016f-c84a-4451-8fc8-a6539bfffa6a)
@@ -248,6 +248,8 @@ The footer is minimalistic with the social links active and colored to the theme
 
 
 ##Further Testing
+
+- I have asked my partner and members of my family and friends to play around on the website and let me know of any bugs or problems they encounter, and recified all contructive critisism.
 
 ##Deployment
 
