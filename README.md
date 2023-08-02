@@ -97,7 +97,9 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 
 ### Navigation Bar
 - The navigation bar has a fun animation once pressed which opens up a drop down menu with the webpage's other page links on.
+- Toggled
 ![nav bar toggled](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/24b6eb5e-4a83-4d73-86ba-1a66e7150eaf)
+- Un-toggled
 ![nav bar un toggled](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/3074b04e-dd1a-4efd-8b22-543c9868ee4c)
 
 
