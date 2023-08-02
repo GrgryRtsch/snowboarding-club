@@ -200,7 +200,7 @@ The footer is minimalistic with the social links active and colored to the theme
 
 ### Testing User Stories from User Experience (UX) Section
 
-### First Time Visitor Goals
+## First Time Visitor Goals
 
 # As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about upcoming events and how and when I can get involved.
 -
@@ -209,23 +209,23 @@ The footer is minimalistic with the social links active and colored to the theme
 # As a First Time Visitor, I would also like people to be able to find out about our other social platforms and the people who are members of the LSC.
 -
 
-### Returning Visitor Goals
+## Returning Visitor Goals
 
 
-#### As a Returning Visitor, I would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club and where this will be for example a map would be great.
+# As a Returning Visitor, I would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club and where this will be for example a map would be great.
 -
-#### As a Returning Visitor, I should be able to see the gallery of all of our previous meet-ups where they may-be featured.
+# As a Returning Visitor, I should be able to see the gallery of all of our previous meet-ups where they may-be featured.
 -
-#### As a Returning Visitor, I should be using all of the links provided at the footer of the page.
+# As a Returning Visitor, I should be using all of the links provided at the footer of the page.
 -
 
-#### Frequent User Goals
+## Frequent User Goals
 
-#### As a Frequent User, I would like to be given information on more challenging slopes and sessions.
+# As a Frequent User, I would like to be given information on more challenging slopes and sessions.
 -
-#### As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
+# As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
 -
-#### As a Frequent User, I may want to contact the club via their social links to ask about events ahead of time / talk to other club members to see if they are attending said event.
+# As a Frequent User, I may want to contact the club via their social links to ask about events ahead of time / talk to other club members to see if they are attending said event.
 -
 
 ##Further Testing
