@@ -1,5 +1,7 @@
 <h1 align="center">Snowboarding Club Website</h1>
 
+![homepage top half](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/e9da243a-ef88-422e-bd3e-dcecb919ef14)
+
 [View the live project here.](https://grgryrtsch.github.io/snowboarding-club/)
 
 This is the main website for Snowboarding Club. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
