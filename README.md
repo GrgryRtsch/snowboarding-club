@@ -86,8 +86,10 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 ![MOBILE HOME](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/55b3d542-05f2-434e-b62c-a477886d85b1)
 
 ### Mobile Veiw - Events Page
+![mobile events](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/8bbab6dd-649e-4bab-a4f1-9114282ad085)
 
 ### Mobile Veiw - Gallery Page
+![Screenshot 2023-08-02 133735](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/1cc8040a-74ba-4f56-abd1-86801e50865e)
 
 ## Features
 
