@@ -145,18 +145,15 @@ The footer is minimalistic with the social links active and colored to the theme
 - Testomonial was based on:
   https://bbbootstrap.com/snippets/bootstrap-5-testimonial-cards-81135938
 
-- Hamburger menu was based on:
-- https://codepn.io/nar3nd3r/pen/GRQVZbq
+- Hamburger menu was based on: https://codepn.io/nar3nd3r/pen/GRQVZbq
 
-- Card styles were based on:
-  https://getbootstrap.com/docs/4.0/components/card/
+- Card styles were based on: https://getbootstrap.com/docs/4.0/components/card/
 
 - Using this part of the Code institute tutorial to start my webpage groundworks
   How Do I Get My (Brilliant) Ideas Into The Machine First Project in a cloud IDE Styling a webpage
   "https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/dcd449bd41a446f49df3268f91dd06fc/072c95175f1148438de9d82e7a756ee1/?child=first"
 
-- Carousel was based on:
-  https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
+- Carousel was based on: https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
 
 ## Frameworks
 
@@ -181,54 +178,66 @@ The footer is minimalistic with the social links active and colored to the theme
 
 
 ## Validating
+- No errors.
 - https://validator.w3.org/
 
 ![validation](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/5eaa2e0d-bd3b-43d8-ae7a-c7fa32628c10)
 
+- 1 error, which 
 - https://jigsaw.w3.org/
 
 ![validator 2](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/9bcb9e4f-661f-4877-a0f4-18b5ac4978a2)
 
 
 ## Lighthouse Testing
-- My score is generally high, but my performance is effected by the bootsrap images I used which are now fundimental to my project.
-![Screenshot 2023-08-02 142554](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/aa287a16-6b92-4031-aab0-bc12ca4ef560)
 
+- My score is generally high, but my performance is effected by the bootsrap images I used which are now fundimental to my project.
+![lighthouse 2](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/acd7016f-c84a-4451-8fc8-a6539bfffa6a)
+
+![Screenshot 2023-08-02 142554](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/aa287a16-6b92-4031-aab0-bc12ca4ef560)
 
 
 ## Known Bugs
 
 - N/A (No known bugs)
-
+  
+### User Story Telling
 ### Testing User Stories from User Experience (UX) Section
 
 ## First Time Visitor Goals
 
 - As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about upcoming events and how and when I can get involved.
--
+- When the user enters the webpage they see the nav bar on the right hand side where is industry standard, they click and it brings a drop down menu into veiw in which they can navigate from any page to any other page.
+  
 - As a First Time Visitor, I user should easily find out about events and upcoming meet-ups as well as finding our contact information easily as well as some extra info like gallerys so I can see the people I would meet.
--
+- The user will navigate from the index.html to event.html via the navbar and the information they are looking for will be directly underneath the hero image on that page. They can then navigate the same way to the gallery.html and check out the photos taken on previous excursions.
+  
 - As a First Time Visitor, I would also like people to be able to find out about our other social platforms and the people who are members of the LSC.
--
+- At the bottom of every page our social links are aviailble and readily displayed and clear to see. This is easily scrolled to via any page.
 
 ## Returning Visitor Goals
 
 
 - As a Returning Visitor, I would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club and where this will be for example a map would be great.
--
+- The returning visitor will now know where the events section is and will be able to see all the up-coming events that are updated weekly. This is easily navigated to via the nav bar links on the nav bar drop down menu.
+  
 - As a Returning Visitor, I should be able to see the gallery of all of our previous meet-ups where they may-be featured.
--
+- The returning vistor will know that we have a gallery page with a carousel where they can potentially see theirselves and friends on our excursions this is easily navigated to via the nav bar links on the nav bar drop down menu.
+
 - As a Returning Visitor, I should be using all of the links provided at the footer of the page.
--
+- The social links are a permanent fixture at the foot of our page and returning visitors can find this from scrolling down on any page.
 
 ## Frequent User Goals
 
 - As a Frequent User, I would like to be given information on more challenging slopes and sessions.
--
+- The frequent user will navigate to our events page where we have information on the type of events we hold some of which will be in-terms of difficulty. This is where the frequent user can find this information via the nav bar.
+
 - As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
--
+- As a freqeunt user the person will be familiar with our testimonial section in which we should have a steady stream of members inputting exactly what they think about the LSC. This is easily found at the bottom of the index page (home page).
+
 - As a Frequent User, I may want to contact the club via their social links to ask about events ahead of time / talk to other club members to see if they are attending said event.
--
+- The user will navigate to our footer in which they can find our social links where they can contact a member of the team or another LSC member in whom they can ask whwatever question they like.
+
 
 ##Further Testing
 
