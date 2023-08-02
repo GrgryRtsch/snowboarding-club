@@ -73,7 +73,7 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 ## Wireframes
 
 ### Home Page
-
+<img src="assets/wireframes/Screenshot 2023-07-31 235654">
 ### Events Page
 
 ### Gallery Page
@@ -97,8 +97,6 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 ### Gallery Page
 
 ### Footer
-
-<img src="assets/wireframes/Screenshot 2023-07-31 235654">
 
 - Responsive on all device sizes, links to socials, contact info links to each page and a gallery.
 
