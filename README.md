@@ -179,10 +179,19 @@ The footer is minimalistic with the social links active and colored to the theme
 
 
 ## Validating
+- https://validator.w3.org/
+
+![validation](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/5eaa2e0d-bd3b-43d8-ae7a-c7fa32628c10)
+
+- https://jigsaw.w3.org/
+
+![validator 2](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/9bcb9e4f-661f-4877-a0f4-18b5ac4978a2)
+
 
 ## Lighthouse Testing
 - My score is generally high, but my performance is effected by the bootsrap images I used which are now fundimental to my project.
 ![Screenshot 2023-08-02 142554](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/aa287a16-6b92-4031-aab0-bc12ca4ef560)
+
 
 
 ## Known Bugs
