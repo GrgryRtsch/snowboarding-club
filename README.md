@@ -139,3 +139,29 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 
 - Icons
 - I used fontawesome for all of my icons <a href="https://fontawesome.com/"></a>
+
+##Testing
+
+##Known Bugs
+
+### Testing User Stories from User Experience (UX) Section
+
+#### First Time Visitor Goals
+
+#### Returning Visitor Goals
+
+#### Frequent User Goals
+
+##Further Testing
+
+##Deployment
+
+### Acknowledgements
+
+-   My Mentor Narender Singh and Cohort Lead Iris Smok for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
+
+##Git Pages
+
+##Clone
