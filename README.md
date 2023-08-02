@@ -253,7 +253,11 @@ The footer is minimalistic with the social links active and colored to the theme
 
 - I have asked my partner and members of my family and friends to play around on the website and let me know of any bugs or problems they encounter, and recified all contructive critisism.
 
-##Deployment
+## Deployment
+
+- GitHub Pages
+
+(https://grgryrtsch.github.io/snowboarding-club/)
 
 ### Acknowledgements
 
