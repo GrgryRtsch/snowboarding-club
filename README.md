@@ -155,6 +155,8 @@ The footer is minimalistic with the social links active and colored to the theme
 
 - Carousel was based on: https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h
 
+- Map Code used from: https://www.googlemaps.com
+
 ## Frameworks
 
 - GitHub was used to store my repositories.
@@ -183,7 +185,7 @@ The footer is minimalistic with the social links active and colored to the theme
 
 ![validation](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/5eaa2e0d-bd3b-43d8-ae7a-c7fa32628c10)
 
-- 1 error, which 
+- 1 error, which is from bootstrap I added.
 - https://jigsaw.w3.org/
 
 ![validator 2](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/9bcb9e4f-661f-4877-a0f4-18b5ac4978a2)
