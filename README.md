@@ -8,17 +8,19 @@ This is the main website for Snowboarding Club. It is designed to be responsibe 
 
 # User Experience
 
+- The site is presented in a minimalist but effective way, providing all the information the user needs. In general, users can find out more about The LSC, our events and info and where to find us. There is also a gallery wher users can find photos from previous events and meet-ups and maybe even see images of themselves as well as scenery from the local area.
+
 ## Purpose
 
 - To get anyone visiting or from Laquionie / Le Blanc who is intersted in snowboarding to form a friendly community.
 
 ## Goals
 
-- To grow the snowboarding club and put on more events for different age group and ability sets.
+- To grow the snowboarding club and put on more events for different age group and ability sets in the future and fully expand our offerings.
 
 ## Audience
 
-- Anybody who enjoys snowboarding and also hiking on the mountains.
+- Anybody who enjoys snowboarding and also hiking on the mountains from or visiting the area in which LSC is based and grow the LSC network.
 
 ## Outcomes
 
@@ -117,10 +119,17 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 ![events page bottom half](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/e504fbd6-c7e1-4c34-8c56-df470c73f39b)
 
 ### Gallery Page
+- The gallery page is a minimalistic page which allows the user to veiw photos of previous meet-ups and general imagery from the local area, this gives users more of a feel of the friendlieness and community of the LSC.
 ![gallery page full](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/e4c5c678-c31f-4435-95b1-da356cfd4a5b)
 
 ### Footer
+The footer is minimalistic with the social links active and colored to the theme of the web pages.
 ![footere](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/b7f15a15-ef0c-45a2-a2f3-a78c645ff8f4)
+
+## Future Features
+
+- A contact page where users can leave their details so we can call them back.
+- A chatbot to answer more extensive FAQs.
 
 ## Languages Used
 
@@ -154,23 +163,61 @@ As the snow is a big part of snowboarding I chose to make my website prodominant
 - Google Fonts, Sans Seriff.
 - CodeAnywhere for building my code and before pushing to GitHub.
 
-- Media
+## Media
+ 
 - All images were taken from https://www.freepik.com
 
-- Icons
+## Icons
+ 
 - I used fontawesome for all of my icons <a href="https://fontawesome.com/"></a>
 
 ##Testing
 
-##Known Bugs
+- Tested on Chrome, Firefox, Microsoft Edge desktop version browsers. Chrome Developer Tools were used to test the responsiveness on: Desktop, Laptop, Samsung S8+/S20ultra, Pixel 5, iPhone SE/XR, iPhone 12, Ipad Air/Mini, Surface Pro, Nest Hub/Nest Hub Max.
+- A large amount of testing was done to ensure that all pages were linking correctly.
+- Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+
+## Validating
+
+## Lighthouse Testing
+- My score is generally high, but my performance is effected by the bootsrap images I used which are now fundimental to my project.
+![Screenshot 2023-08-02 142554](https://github.com/GrgryRtsch/snowboarding-club/assets/127130382/aa287a16-6b92-4031-aab0-bc12ca4ef560)
+
+
+## Known Bugs
+
+- N/A (No known bugs)
 
 ### Testing User Stories from User Experience (UX) Section
 
-#### First Time Visitor Goals
+### First Time Visitor Goals
 
-#### Returning Visitor Goals
+# As a First Time Visitor, I would like to come onto the web page and easily navigate it whilst getting the information I need about upcoming events and how and when I can get involved.
+-
+# As a First Time Visitor, I user should easily find out about events and upcoming meet-ups as well as finding our contact information easily as well as some extra info like gallerys so I can see the people I would meet.
+-
+# As a First Time Visitor, I would also like people to be able to find out about our other social platforms and the people who are members of the LSC.
+-
+
+### Returning Visitor Goals
+
+
+#### As a Returning Visitor, I would need to be given information on our meet-up times to stay up to date with everythhing happening in and around the club and where this will be for example a map would be great.
+-
+#### As a Returning Visitor, I should be able to see the gallery of all of our previous meet-ups where they may-be featured.
+-
+#### As a Returning Visitor, I should be using all of the links provided at the footer of the page.
+-
 
 #### Frequent User Goals
+
+#### As a Frequent User, I would like to be given information on more challenging slopes and sessions.
+-
+#### As a Frequent User, I want to be able to see what my friends are saying about continued meet-ups.
+-
+#### As a Frequent User, I may want to contact the club via their social links to ask about events ahead of time / talk to other club members to see if they are attending said event.
+-
 
 ##Further Testing
 
