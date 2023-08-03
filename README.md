@@ -265,6 +265,30 @@ The footer is minimalistic with the social links active and colored to the theme
 
 -   Tutor support at Code Institute for their support.
 
-##Git Pages
+### Forking the GitHub Repository
 
-##Clone
+By forking the GitHub Repository you will make a copy of the original repository on GitHub to then view or make changes without ruining the original repository by using the following steps;
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+- Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+- Under the repository name, click "Clone or download".
+- To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+- Open Git Bash
+- Change the current working directory to the location where you want the cloned directory to be made.
+- Type `git clone`, and then paste the URL you copied in Step 3.
+
+- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+7. Press Enter. Your local clone will be created.
+
+- git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+- Cloning into `CI-Clone`...
+- remote: Counting objects: 10, done.
+- remote: Compressing objects: 100% (8/8), done.
+- remove: Total 10 (delta 1), reused 10 (delta 1)
+- Unpacking objects: 100% (10/10), done.
